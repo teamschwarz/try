@@ -1,4 +1,4 @@
-name: Create/Configure Azure environment
+name: Create Azure environment
 
 on:
   workflow_dispatch:
